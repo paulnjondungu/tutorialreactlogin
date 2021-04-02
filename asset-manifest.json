@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tutorialreactlogin/static/css/main.81f4587b.chunk.css",
+    "main.css": "/tutorialreactlogin/static/css/main.d8fd80a3.chunk.css",
     "main.js": "/tutorialreactlogin/static/js/main.fd93f1a7.chunk.js",
     "main.js.map": "/tutorialreactlogin/static/js/main.fd93f1a7.chunk.js.map",
     "runtime-main.js": "/tutorialreactlogin/static/js/runtime-main.72b2e265.js",
@@ -10,14 +10,14 @@
     "static/js/3.e5ea408f.chunk.js": "/tutorialreactlogin/static/js/3.e5ea408f.chunk.js",
     "static/js/3.e5ea408f.chunk.js.map": "/tutorialreactlogin/static/js/3.e5ea408f.chunk.js.map",
     "index.html": "/tutorialreactlogin/index.html",
-    "static/css/main.81f4587b.chunk.css.map": "/tutorialreactlogin/static/css/main.81f4587b.chunk.css.map",
+    "static/css/main.d8fd80a3.chunk.css.map": "/tutorialreactlogin/static/css/main.d8fd80a3.chunk.css.map",
     "static/js/2.c40ab1ed.chunk.js.LICENSE.txt": "/tutorialreactlogin/static/js/2.c40ab1ed.chunk.js.LICENSE.txt",
     "static/media/log.d9c84318.png": "/tutorialreactlogin/static/media/log.d9c84318.png"
   },
   "entrypoints": [
     "static/js/runtime-main.72b2e265.js",
     "static/js/2.c40ab1ed.chunk.js",
-    "static/css/main.81f4587b.chunk.css",
+    "static/css/main.d8fd80a3.chunk.css",
     "static/js/main.fd93f1a7.chunk.js"
   ]
 }
